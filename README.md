@@ -1,6 +1,5 @@
 ### Hi Mohamed 👋
- <img src="[URL_TO_YOUR_IMAGE_OR_GIF](https://raw.githubusercontent.com/Mohamed-H7/Mohamed-H7/main/test/SmartSelect_20211129-224246_Instagram.jpg)"/>
-
+<img src="[URL_TO_YOUR_IMAGE](https://github.com/Mohamed-H7/Mohamed-H7/blob/main/test/SmartSelect_20211129-224246_Instagram.jpg)" width="100px" height="50px" alt="ALTERNATIVE_TEXT" />
 <!--
 **Mohamed-H7/Mohamed-H7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
