@@ -6,19 +6,20 @@ I am a computer engineering student at Necmettin Erbakan University. I have been
 
 ً
 <p align="center">
-<img alt="skills icon" src="https://user-images.githubusercontent.com/18360262/226794056-3501d1d7-8e0a-4d84-9989-0bea7a735515.svg" width="150" height="40" />
-  </p> 
- 
+<img alt="PROGRAMMING 
+LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b8524c-e5fe-4f5c-89e5-7aaf35b2444b.svg" width="280" height="50" /></p>
 
- <!--
 ```
-TypeScript   7 hrs 38 mins   ██████████████████▓░░░░░░   74.25 %
-JavaScript   1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-JSON         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Bash         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Groovy       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+> Programming language:            > The progress bar:
+- C                                █████████████████▓░░   87 %
+- Python                           ██████████████▓░░░░░   75 %
+- HTML                             ███████████▓░░░░░░░░   60 %
+- CSS                              █████████▓░░░░░░░░░░   50 %
 ```
+
+
+
+<!--
 -->
 
 
