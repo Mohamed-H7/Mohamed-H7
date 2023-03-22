@@ -4,6 +4,7 @@
 ### Who am I?
 I am a computer engineering 🖥️ student at Necmettin Erbakan University. I have been passionate about computers since childhood
 
+<br />
 
 <p align="center">
 <img alt="PROGRAMMING 
@@ -41,16 +42,22 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 - Football ⚽
 ```
 <h1></h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamed-h7&show_icons=true&theme=gotham" alt="Mohamed-H7" />
+<!-- الصورة my github stats -->
+<p align="left">
+<img alt="my github stats" src="https://user-images.githubusercontent.com/18360262/227052846-04a8bcfa-2976-4d8b-92f1-f0c7b4143160.gif" width="1000" height="130" />
+</p>
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-h7&show_icons=true&theme=transparent"/>
+   
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-h7&theme=transparent&border_radius=5&mode=weekly&border=3D1EFF)](https://git.io/streak-stats"/>
+</p>
+
+<!-- my signature -->
 <p align="right">
 <img alt="my signature" src="https://user-images.githubusercontent.com/18360262/227043128-7f28d0fb-cf46-4a7e-bb75-98844edba956.svg"/>
 </p>
 
-<!-- ![my signature](https://user-images.githubusercontent.com/18360262/227043128-7f28d0fb-cf46-4a7e-bb75-98844edba956.svg)
- -->
-
-  
 <!--
 **Mohamed-H7/Mohamed-H7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
