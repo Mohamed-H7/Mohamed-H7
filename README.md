@@ -2,12 +2,13 @@
 <h1></h1>
 
 ### Who am I?
-I am a computer engineering student at Necmettin Erbakan University. I have been passionate about computers since childhood
+I am a computer engineering 🖥️ student at Necmettin Erbakan University. I have been passionate about computers since childhood
 
-ً
+
 <p align="center">
 <img alt="PROGRAMMING 
-LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b8524c-e5fe-4f5c-89e5-7aaf35b2444b.svg" width="280" height="50" /></p>
+LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b8524c-e5fe-4f5c-89e5-7aaf35b2444b.svg" width="300" height="50" />
+</p>
 
 ```
 > Programming language:            > The progress bar:
@@ -17,12 +18,28 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 - CSS                              █████████▓░░░░░░░░░░   50 %
 ```
 
+<p align="center">
+<img alt="Languages" src="https://user-images.githubusercontent.com/18360262/227037616-a8f51b8b-a782-4205-9447-d58fe4cba1ab.svg" width="300" height="50" />
+</p>
 
+```
+> Languages:            > knowledge level:
+- Arabic                   ★ ★ ★ ★ ☆
+- English                  ★ ★ ☆ ☆ ☆
+- Turkish                  ★ ★ ☆ ☆ ☆
+```
 
-<!--
--->
+<p align="center">
+<img alt="hobbies" src="https://user-images.githubusercontent.com/18360262/227040426-e79a488f-b1e8-448d-85f6-00bff09a2c6c.svg" width="300" height="50" />
+</p>
 
+```
+- Chess ♟️
 
+- Swimming 🏊🏻‍♂️
+
+- Football ⚽
+```
 
 
 <!--
