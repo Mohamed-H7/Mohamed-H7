@@ -60,20 +60,21 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-h7&show_icons=true&theme=transparent"/>
   <!--  space  -->
-   
+  
   <!-- GitHub streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-h7&theme=transparent&border_radius=5&mode=weekly&border=3D1EFF)](https://git.io/streak-stats"/>
-  <!--  dd  -->
-  
+  <!--  top-langs  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-h7&layout=compact&theme=transparent"/>
+  <!-- Github profile trophy -->
+  <img alt="my github stats" src="https://github-profile-trophy.vercel.app/?username=Mohamed-h7&theme=discord"/>
 </p>
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-h7&layout=compact&theme=transparent)
+<!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-h7&layout=compact&theme=transparent) -->
 
 
-<!-- Github profile trophy -->
-<p align="center">
-<img alt="my github stats" src="https://github-profile-trophy.vercel.app/?username=Mohamed-h7&theme=discord"/>
-</p>
+
+<!-- <p align="center">
+</p> -->
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------- -->
