@@ -47,9 +47,15 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 ```
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!-- <p float="right">
+  <img alt="stickman" src="https://user-images.githubusercontent.com/18360262/227101849-60a555b3-09be-4d6b-ac15-3747eb8eef5f.gif" height="60px"/>
+  <img alt="stickman" src="https://user-images.githubusercontent.com/18360262/227101849-60a555b3-09be-4d6b-ac15-3747eb8eef5f.gif" height="60px"/>
+</p> -->
+
 
 <!-- ----------------------------------------------My Github Stats--------------------------------------------------------------- -->
 ## My Github Stats <img src="https://user-images.githubusercontent.com/18360262/227085691-386d72f2-be29-4cbc-959a-1adae3c75168.svg" height="30px" />
+
 <p float="left">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-h7&show_icons=true&theme=transparent"/>
@@ -60,6 +66,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
   <!-- Github profile trophy -->
   <img alt="my github stats" src="https://github-profile-trophy.vercel.app/?username=Mohamed-h7&theme=discord"/>
 </p>
+
 <br />
 <!-- ------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -70,14 +77,11 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 
  
 <p align="center">
-<img alt="Quick access" src="https://user-images.githubusercontent.com/18360262/227098033-254bf6c0-cffb-435f-b697-7ffd78e35915.svg" width="800" height="200" />
+<img alt="Quick access" src="https://user-images.githubusercontent.com/18360262/227102995-b4571ab7-fda2-47a9-854b-43c72c65fa92.svg" width="800" height="200" />
 </p>
 
 
-
-
 <!-- ------------------------------------------------------------------------------------------------------------------------- -->
-
 
 <!-- -------------------------------------------my signature--------------------------------------------------------------- -->
 <p align="right">
