@@ -1,8 +1,10 @@
 ![Helloo World](https://user-images.githubusercontent.com/18360262/226515039-b406dafa-d293-4a1f-a288-30a6711f3d1e.gif)
-<h1></h1>
+<!-- <h1></h1> -->
 
-### Who am I?
-I am a computer engineering 🖥️ student at Necmettin Erbakan University. I have been passionate about computers since childhood
+**Who am I?**
+- I am a computer engineering student at [Necmettin Erbakan University](https://www.erbakan.edu.tr/) 🏫
+- Passionate about computers since childhood 👶🏻
+
 
 <br />
 
@@ -42,10 +44,25 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 - Football ⚽
 ```
 
+<p align="center">
+<img alt="Tools" src="https://user-images.githubusercontent.com/18360262/227107669-263da418-2d67-4057-b540-f21f227e4fd9.svg" width="300" height="50" />
+</p>
+
+<p align="center">
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227108648-e5fdf9c3-5e06-4ed0-9535-cbbb8eaedc41.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227108661-a0dfcb24-c938-4670-aab6-e452c26c373a.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227108653-349aff71-8608-48cd-9cb3-b85ae50f904d.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227108681-352131fd-900e-49f3-9516-78d4cd62b7ac.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227108687-70cc47c7-02cf-4af3-b406-bcac2a499549.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227108643-0e3f5e7c-9eeb-4b96-89dd-d92c762b6bc0.svg"></code>
+</p>
+
+
+<!-- 
 ```
 > Jokes Card:
 ```
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 <!-- <p float="right">
   <img alt="stickman" src="https://user-images.githubusercontent.com/18360262/227101849-60a555b3-09be-4d6b-ac15-3747eb8eef5f.gif" height="60px"/>
