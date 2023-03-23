@@ -101,6 +101,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 📫 How to reach me? 
 </h2>
 
+You can reach me via email, my [Twitter](https://twitter.com/7goffy) account, or my [Linkedin](https://www.linkedin.com/in/mohamedhamdo/) account.
  
 <p align="center">
 <img alt="Quick access" src="https://user-images.githubusercontent.com/18360262/227102995-b4571ab7-fda2-47a9-854b-43c72c65fa92.svg" width="700" height="150" />
