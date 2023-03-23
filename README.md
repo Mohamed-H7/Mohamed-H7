@@ -42,20 +42,14 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 - Football ⚽
 ```
 
-
 ```
 > Jokes Card:
 ```
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-<h1></h1>
-<!-- my github stats -->
-<p align="left">
-<img alt="my github stats" src="https://user-images.githubusercontent.com/18360262/227052846-04a8bcfa-2976-4d8b-92f1-f0c7b4143160.gif" width="1000" height="130" />
-</p>
-
-
+<!-- ----------------------------------------------My Github Stats--------------------------------------------------------------- -->
+# My Github Stats  <img src="https://user-images.githubusercontent.com/18360262/227085691-386d72f2-be29-4cbc-959a-1adae3c75168.svg" height="30px" />
 <p float="left">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-h7&show_icons=true&theme=transparent"/>
@@ -66,34 +60,11 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
   <!-- Github profile trophy -->
   <img alt="my github stats" src="https://github-profile-trophy.vercel.app/?username=Mohamed-h7&theme=discord"/>
 </p>
-
-<!-- ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-h7&layout=compact&theme=transparent) -->
-
-
-
-<!-- <p align="center">
-</p> -->
-
-
 <!-- ------------------------------------------------------------------------------------------------------------------------- -->
-<!-- my signature -->
+
+
+<!-- -------------------------------------------my signature--------------------------------------------------------------- -->
 <p align="right">
 <img alt="my signature" src="https://user-images.githubusercontent.com/18360262/227043128-7f28d0fb-cf46-4a7e-bb75-98844edba956.svg"/>
 </p>
-
-<!--
-**Mohamed-H7/Mohamed-H7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-
-<!--  -->
+<!-- ------------------------------------------------------------------------------------------------------------------------- -->
