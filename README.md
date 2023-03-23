@@ -20,6 +20,15 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 - HTML                             ███████████▓░░░░░░░░   60 %
 - CSS                              █████████▓░░░░░░░░░░   50 %
 ```
+<p align="center">
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227110928-d6218e31-6784-4d1b-b5e4-64306b721b3e.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227110926-c9ca16be-37d0-412e-9271-1450c3564ff3.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227110934-87cc5552-1915-420b-85e3-b7ac358329a9.png"></code>
+<code><img height="25" src="https://user-images.githubusercontent.com/18360262/227110932-bb3d878e-4a53-4b8f-a8fc-f29c9ac22130.png"></code>
+</p>
+
+
+
 
 <p align="center">
 <img alt="Languages" src="https://user-images.githubusercontent.com/18360262/227037616-a8f51b8b-a782-4205-9447-d58fe4cba1ab.svg" width="300" height="50" />
