@@ -77,7 +77,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 
  
 <p align="center">
-<img alt="Quick access" src="https://user-images.githubusercontent.com/18360262/227102995-b4571ab7-fda2-47a9-854b-43c72c65fa92.svg" width="800" height="200" />
+<img alt="Quick access" src="https://user-images.githubusercontent.com/18360262/227102995-b4571ab7-fda2-47a9-854b-43c72c65fa92.svg" width="700" height="150" />
 </p>
 
 
