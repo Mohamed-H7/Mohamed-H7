@@ -59,8 +59,6 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 <p float="left">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-h7&show_icons=true&theme=transparent"/>
-  <!--  space  -->
- 
   <!-- GitHub streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamed-h7&theme=transparent&border_radius=5&mode=weekly&border=3D1EFF)](https://git.io/streak-stats"/>
   <!--  top-langs  -->
@@ -97,3 +95,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+
+<!--  -->
