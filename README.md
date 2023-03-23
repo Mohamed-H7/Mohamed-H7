@@ -49,7 +49,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 
 
 <!-- ----------------------------------------------My Github Stats--------------------------------------------------------------- -->
-# My Github Stats  <img src="https://user-images.githubusercontent.com/18360262/227085691-386d72f2-be29-4cbc-959a-1adae3c75168.svg" height="30px" />
+## My Github Stats <img src="https://user-images.githubusercontent.com/18360262/227085691-386d72f2-be29-4cbc-959a-1adae3c75168.svg" height="30px" />
 <p float="left">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-h7&show_icons=true&theme=transparent"/>
