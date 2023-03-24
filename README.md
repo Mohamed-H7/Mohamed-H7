@@ -31,7 +31,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 <img alt="my projects" src="https://user-images.githubusercontent.com/18360262/227420805-37b38c97-d5b7-4168-9878-746225b9092e.svg" width="300" height="50" />
 </p>
 
-<details open>
+<details >
 <summary>C projects</summary>
   
 - [Calculator](https://github.com/Mohamed-H7/C/tree/main/Calculator%20(first%20programming%20project)) (The first programming project)
@@ -40,7 +40,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 
 </details>
 
-<details open>
+<details >
 <summary>Python projects</summary>
   
 - [Fill in employee data](https://github.com/Mohamed-H7/Python/tree/main/Fill%20in%20employee%20data)
