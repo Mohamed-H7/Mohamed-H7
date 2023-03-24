@@ -27,8 +27,42 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 <code><img height="25" src="https://user-images.githubusercontent.com/18360262/227110932-bb3d878e-4a53-4b8f-a8fc-f29c9ac22130.png"></code>
 </p>
 
+<p align="center">
+<img alt="my projects" src="https://user-images.githubusercontent.com/18360262/227420805-37b38c97-d5b7-4168-9878-746225b9092e.svg" width="300" height="50" />
+</p>
 
+<details open>
+<summary>C projects</summary>
+  
+- [Calculator](https://github.com/Mohamed-H7/C/tree/main/Calculator%20(first%20programming%20project)) (The first programming project)
+- [Fill in employee data](https://github.com/Mohamed-H7/C/tree/main/Fill%20in%20employee%20data)
+- [Vending Software](https://github.com/Mohamed-H7/C/tree/main/Vending%20Software)
 
+</details>
+
+<details open>
+<summary>Python projects</summary>
+  
+- [Fill in employee data](https://github.com/Mohamed-H7/Python/tree/main/Fill%20in%20employee%20data)
+- [Age calculator](https://github.com/Mohamed-H7/Python/tree/main/Age%20calculator)
+- [Count letters and numbers](https://github.com/Mohamed-H7/Python/tree/main/Count%20letters%20and%20numbers)
+- [Goffy encryption system](https://github.com/Mohamed-H7/Python/tree/main/Goffy%20encryption%20system)
+- [Password Player](https://github.com/Mohamed-H7/Python/tree/main/Password%20Player)
+- [Rock Paper Scissors game](https://github.com/Mohamed-H7/Python/tree/main/Rock-Paper-Scissors%20game)
+- [System (binary - decimal)](https://github.com/Mohamed-H7/Python/tree/main/System%20(binary%20-%20decimal))
+
+</details>
+
+<!-- | Python projects | C projects |
+|----- | ----- |
+|[Fill in employee data](https://github.com/Mohamed-H7/Python/tree/main/Fill%20in%20employee%20data)|[Calculator](https://github.com/Mohamed-H7/C/tree/main/Calculator%20(first%20programming%20project)) (The first programming project)|
+|[Age calculator](https://github.com/Mohamed-H7/Python/tree/main/Age%20calculator)|[Fill in employee data](https://github.com/Mohamed-H7/C/tree/main/Fill%20in%20employee%20data)|
+|[Count letters and numbers](https://github.com/Mohamed-H7/Python/tree/main/Count%20letters%20and%20numbers)|[Vending Software](https://github.com/Mohamed-H7/C/tree/main/Vending%20Software)|
+|[Goffy encryption system](https://github.com/Mohamed-H7/Python/tree/main/Goffy%20encryption%20system)|
+|[Password Player](https://github.com/Mohamed-H7/Python/tree/main/Password%20Player)|
+|[Rock Paper Scissors game](https://github.com/Mohamed-H7/Python/tree/main/Rock-Paper-Scissors%20game)|
+|[System (binary - decimal)](https://github.com/Mohamed-H7/Python/tree/main/System%20(binary%20-%20decimal))|
+ -->
 
 <p align="center">
 <img alt="Languages" src="https://user-images.githubusercontent.com/18360262/227037616-a8f51b8b-a782-4205-9447-d58fe4cba1ab.svg" width="300" height="50" />
