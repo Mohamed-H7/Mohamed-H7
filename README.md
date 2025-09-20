@@ -2,8 +2,8 @@
 <!-- <h1></h1> -->
 
 **Who am I?**
-- I am a computer engineering student at [Necmettin Erbakan University](https://www.erbakan.edu.tr/) 🏫
-- Passionate about computers since childhood 👶🏻
+
+I am a Computer Engineer, a graduate of Necmettin Erbakan University, specializing in mobile application development using Flutter. I build cross-platform apps with a focus on performance, clean code, and user-centric design. I follow the MVC architectural pattern and leverage GetX for efficient state management, routing, and dependency injection. Passionate about scalable architecture and continuous learning, I aim to create seamless, maintainable, and high-quality mobile experiences.
 
 
 <br />
@@ -15,10 +15,13 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 
 ```
 > Programming language:            > The progress bar:
-- C                                █████████████████▓░░   87 %
+- Flutter (Dart)                   ████████████████▓░░░   85 %
+- Java                             ██████████████████▓░   95 %
 - Python                           ██████████████▓░░░░░   75 %
-- HTML                             ███████████▓░░░░░░░░   60 %
+- C                                █████████████████▓░░   90 %
+- PHP                              ███████▓░░░░░░░░░░░░   40 %
 - CSS                              █████████▓░░░░░░░░░░   50 %
+- JAVASCRIPT                       █████▓░░░░░░░░░░░░░░   30 %
 ```
 <p align="center">
 <code><img height="25" src="https://user-images.githubusercontent.com/18360262/227110928-d6218e31-6784-4d1b-b5e4-64306b721b3e.png"></code>
@@ -31,6 +34,14 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 <img alt="my projects" src="https://user-images.githubusercontent.com/18360262/227420805-37b38c97-d5b7-4168-9878-746225b9092e.svg" width="300" height="50" />
 </p>
 
+<details >
+<summary>Mobile application projects</summary>
+  
+- [Shopping-app](https://github.com/Mohamed-H7/Shopping-app) (Undergraduate project)
+  
+- [Hussen Muslim](https://github.com/Mohamed-H7/Shopping-app) (Personal project)
+</details>
+<!--  
 <details >
 <summary>C projects</summary>
   
@@ -52,6 +63,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 - [System (binary - decimal)](https://github.com/Mohamed-H7/Python/tree/main/System%20(binary%20-%20decimal))
 
 </details>
+-->
 
 <!-- | Python projects | C projects |
 |----- | ----- |
