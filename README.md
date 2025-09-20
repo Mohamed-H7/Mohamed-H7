@@ -34,7 +34,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 <img alt="my projects" src="https://user-images.githubusercontent.com/18360262/227420805-37b38c97-d5b7-4168-9878-746225b9092e.svg" width="300" height="50" />
 </p>
 
-<details >
+<details open>
 <summary>Mobile application projects</summary>
   
 - [Shopping-app](https://github.com/Mohamed-H7/Shopping-app) (Undergraduate project)
