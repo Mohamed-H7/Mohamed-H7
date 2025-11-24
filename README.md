@@ -43,6 +43,13 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
   
 - [Syrian Students Gathering App](https://github.com/Mohamed-H7/Syrian-Students-Gathering-App) (Volunteer project)
 </details>
+
+<details open>
+<summary>Data Science projects</summary>
+  
+- [EEG-Data-Science-Analysis](https://github.com/Mohamed-H7/EEG-Data-Science-Analysis) 
+
+</details>
 <!--  
 <details >
 <summary>C projects</summary>
