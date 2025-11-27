@@ -39,7 +39,7 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
   
 - [Shopping-app](https://github.com/Mohamed-H7/Shopping-app) (Undergraduate project)
   
-- [Hussen Muslim](https://github.com/Mohamed-H7/Hussen-Muslim-App) (Personal project)
+- [Tahassan](https://github.com/Mohamed-H7/Tahassan) (Personal project)
   
 - [Syrian Students Gathering App](https://github.com/Mohamed-H7/Syrian-Students-Gathering-App) (Volunteer project)
 </details>
