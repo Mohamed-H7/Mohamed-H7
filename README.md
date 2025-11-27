@@ -35,13 +35,20 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 </p>
 
 <details open>
-<summary>Mobile application projects</summary>
+<summary>Mobile Application projects</summary>
   
 - [Shopping-app](https://github.com/Mohamed-H7/Shopping-app) (Undergraduate project)
   
 - [Hussen Muslim](https://github.com/Mohamed-H7/Hussen-Muslim-App) (Personal project)
   
 - [Syrian Students Gathering App](https://github.com/Mohamed-H7/Syrian-Students-Gathering-App) (Volunteer project)
+</details>
+
+<details open>
+<summary>Desktop Application projects</summary>
+  
+- [SuperMarket-Management-System-Cpp](https://github.com/Mohamed-H7/SuperMarket-Management-System-Cpp)
+
 </details>
 
 <details open>
