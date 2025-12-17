@@ -35,6 +35,15 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 </p>
 
 <details open>
+<summary>Featured Projects</summary>
+  
+- [Tahassan](https://github.com/Mohamed-H7/Tahassan) (Mobile App)
+  
+- [Rassikh](https://mohamed-h7.github.io/Rassikh/) (Web)
+  
+</details>
+
+<details >
 <summary>Mobile Application projects</summary>
   
 - [Shopping-app](https://github.com/Mohamed-H7/Shopping-app) (Undergraduate project)
@@ -44,14 +53,14 @@ LANGUAGES" src="https://user-images.githubusercontent.com/18360262/227015445-32b
 - [Syrian Students Gathering App](https://github.com/Mohamed-H7/Syrian-Students-Gathering-App) (Volunteer project)
 </details>
 
-<details open>
+<details >
 <summary>Desktop Application projects</summary>
   
 - [SuperMarket-Management-System-Cpp](https://github.com/Mohamed-H7/SuperMarket-Management-System-Cpp)
 
 </details>
 
-<details open>
+<details >
 <summary>Data Science projects</summary>
   
 - [EEG-Data-Science-Analysis](https://github.com/Mohamed-H7/EEG-Data-Science-Analysis) 
